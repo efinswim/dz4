@@ -1,0 +1,25 @@
+.menu {
+    background-color: #008080;
+}
+main {
+    font-size: 16px;
+}
+.div1 {
+    background-color: #FF69B4;
+}
+.div11 {
+    width: 33%;
+    display: inline-block;
+}
+.div2 {
+    background-color: #9ACD32;
+}
+.divmain45 {
+    width: 66%;
+}
+.div678 {
+    width: 33%;
+}
+.div3 {
+    background-color: #FFE4C4;
+}
